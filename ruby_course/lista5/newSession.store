@@ -1,0 +1,640 @@
+---
+session0:
+  http://www.ii.uni.wroc.pl/~gst/MD/:
+  - "<meta charset=\"utf-8\">\n<HEADER><TITLE>Matematyka Dyskretna</TITLE></HEADER>\n<H2>\nMatematyka
+    Dyskretna</H2>\n<UL>\n<LI><A HREF=\"mdysRG.pdf\">Zasady zaliczania</A> \n<LI><A
+    HREF=\"mdys01.pdf\">Lista 1</A> \n<LI><A HREF=\"mdys02.pdf\">Lista 2</A>\n<LI><A
+    HREF=\"mdys03.pdf\">Lista 3</A>\n<LI><A HREF=\"mdys04.pdf\">Lista 4</A>\n<LI><A
+    HREF=\"mdys05.pdf\">Lista 5</A>\n<LI><A HREF=\"mdys06.pdf\">Lista 6</A>\n<LI><A
+    HREF=\"mdys07.pdf\">Lista 7</A>\n<LI><A HREF=\"mdys08.pdf\">Lista 8</A>\n<LI><A
+    HREF=\"mdys09.pdf\">Lista 9</A>\n<LI><A HREF=\"mdys10.pdf\">Lista 10</A>\n</UL>\n<DD><UL>\n\n\n\n\n\n\n"
+  - 28d50072ea30ef7f92e378a9229c555b
+  http://www.ii.uni.wroc.pl:
+  - "\n\n\n\n\n\n<!DOCTYPE html>\n\n<html class=\"no-js\" lang=\"en\"><!-- the \"no-js\"
+    class is for Modernizr. -->\n\n\t<head id=\"inin\" data-template-set=\"html5-skeleton\">\n\t\t<meta
+    charset=\"UTF-8\">\n\t\t<!-- Always force latest IE rendering engine (even in
+    intranet) & Chrome Frame -->\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n\t\t<meta
+    name=\"google-site-verification\" content=\"r3Do8J5uU1Lzbs3KCJVAWvRZ47pxp7hVG65k3yUhT0Y\"
+    />\n\t\t<title>\n\t\t\n\t\tInstytut Informatyki \n\t\t\n\t\t\tUniwersytetu Wrocławskiego\n\t\t\n\t\t</title>\n\n\t\t<meta
+    name=\"author\" content=\"Instytut Informatyki UWr\">\n\t\t<meta name=\"keywords\"
+    content=\"informatyka studia rekrutacja\">\n\t\t<meta name=\"description\" content=\"
+    Informatyka w Uniwersytecie Wrocłaskim - studia nie z tej Ziemi.  Oficjalna strona
+    Instytutu Informatyki Uniwersytetu Wrocławskiego.\">\n\t\t<meta name=\"google-site-verification\"
+    content=\"\">\n\n\t\t<!-- Dublin Core Metadata : http://dublincore.org/ -->\n\t\t<meta
+    name=\"DC.title\" content=\"Instytut Informatyki\">\n\t\t<meta name=\"DC.subject\"
+    content=\"ININ\">\n\t\t<meta name=\"DC.creator\" content=\"ii.uni.wroc.pl\">\n\n\t\t<!--
+    \ Mobile Viewport Fix\n\t\tj.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag\n\t\tdevice-width
+    : Occupy full width of the screen in its current orientation\n\t\tinitial-scale
+    = 1.0 retains dimensions instead of zooming out if page height > device height\n\t\tmaximum-scale
+    = 1.0 retains dimensions instead of zooming in if page width < device width-->\n\t\t<!--
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\">
+    -->\n\t    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t\t<link
+    rel=\"shortcut icon\" href=\"/static/img/favicon.ico\" type=\"image/x-icon\">\n\t\t<link
+    rel=\"apple-touch-icon\" href=\"/static/img/ii.png\">\n\n\t\t<!-- Using local
+    fonts? make sure to read up http://www.red-team-design.com/google-font-api-and-typekit-solutions-vs-font-face
+    -->\n\t\t<!-- Google Web fonts example: load from Google server. You can use directly
+    in your css -->\n\t    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext'
+    rel='stylesheet' type='text/css'>\n\t    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\">\n\n\t
+    \   <!-- purecss stylesheets -->\n\t    <link rel=\"stylesheet\" href=\"/static/css/yahoo/base-min.css\">\n\t
+    \   <link rel=\"stylesheet\" href=\"/static/css/yahoo/pure-min.css\">\n\n\t    <!--[if
+    lte IE 8]>\n\t        <link rel=\"stylesheet\" href=\"/static/css/yahoo/grids-responsive-old-ie-min.css\">\n\t
+    \   <![endif]-->\n\t    <!--[if gt IE 8]><!-->\n\t        <link rel=\"stylesheet\"
+    href=\"/static/css/yahoo/grids-responsive-min.css\">\n\t    <!--<![endif]-->\n\n\t\t<!--
+    CSS: screen, mobile & print are all in the same file -->\n        <link rel=\"stylesheet\"
+    href=\"/static/css/style.css\" type=\"text/css\">\n        <link rel=\"stylesheet\"
+    href=\"/static/css/header.css\" type=\"text/css\">\n        <link rel=\"stylesheet\"
+    href=\"/static/css/link_menu.css\" type=\"text/css\">\n        <link rel=\"stylesheet\"
+    href=\"/static/css/footer.css\" type=\"text/css\">\n\n        \n    <link rel=\"stylesheet\"
+    href=\"/static/css/home.css?v=5\" type=\"text/css\">\n    <style>\n    \t#breadcrumbs
+    {\n    \t\tdisplay: none;\n    \t}\n\n    \t.slider-container {\n    \t\tborder-bottom:
+    none;\n    \t}\n    </style>\n\n\n\t\t<!-- all our JS is at the bottom of the
+    page, except for Modernizr. -->\n        <!-- <script type=\"text/javascript\"
+    src=\"/static/js/libs/modernizr.custom-2.6.2.min.js\"></script>-->\n\n\t</head>\n\n\t<body>\n\n\t\t<header>\n
+    \           \n<div id=\"search-box\">\n    <div class=\"container\">\n        <form
+    action=\"/szukaj\" method=\"get\">\n            <input id=\"search-input\" type=\"text\"
+    name=\"q\" placeholder=\"Szukaj...\" />\n            <button type=\"submit\" id=\"search-submit-btn\">\n
+    \               <i class=\"fa-search fa\"></i>\n            </button>\n        </form>\n
+    \   </div>\n</div>\n\n\n\n            \n\n\n<div id=\"top-bar\">\n    <div class=\"container\">\n
+    \       <div class=\"pure-g\">\n            <div class=\"pure-u-1-3\">\n                <a
+    href=\"/\" id=\"logo\"><img src=\"/static/img/logo.png\"/></a>\n                <div
+    class=\"logoii-wrapper\">\n\t           <a href=\"/\"> <span class=\"logoii color-red\">Instytut</span>
+    <span class=\"logoii\"> Informatyki</span></a>\n                </div>\n            </div>\n
+    \           <div class=\"pure-u-2-3 no-print-m\">\n                <nav id=\"main-nav\">
+    \n                    <ul id=\"secondary-nav\">\n                        <form
+    action=\"/i18n/setlang/\" class=\"lang-form\" method=\"post\"><input type='hidden'
+    name='csrfmiddlewaretoken' value='jFGBIizRG7Ta1WXfm3qqIyAsIbbNy5lU' />\n                        <input
+    name=\"next\" type=\"hidden\" value=\"\" />\n                        \n                        \n
+    \                       \n\n                        \n                            \n
+    \                       \n                            \n                                <input
+    type=\"hidden\" name=\"language\" value=\"en\"/>\n                                <li><button
+    class=\"lang-btn\" type=\"submit\">English</button></li>\n                            \n
+    \                       \n                        </form>\n                        <li><a
+    class=\"facebook-icon-link\" href=\"https://facebook.com/IIUWr/?fref=ts\"><i class=\"fa-facebook
+    fa\"></i></a></li>\n                        \n                        <li><a href=\"/dla-studenta/kalendarz\"><b>Terminarz</b></a></li>\n\n
+    \                   </ul>\n                    <ul id=\"primary-nav\">\n                        <li
+    class=\"with-submenu\">\n                            <a href=\"/dla-studenta\">Studia</a>\n
+    \                           <div class=\"submenu\">\n                                <div
+    class=\"submenu-container link-menu\">\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-kalendarz\"><a
+    href=\"/dla-studenta/kalendarz\"><i class=\"fa-angle-right fa\"></i>Terminarz</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Dla
+    kandydatów</span>\n        \n            \n                <ul>\n\n<li id=\"section-tree-dlaczego-my\"><a
+    href=\"/dla-studenta/dlaczego-my\"><i class=\"fa-angle-right fa\"></i>Dlaczego
+    my?</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-informacje-praktyczne\"><a href=\"/dla-studenta/informacje-praktyczne\"><i
+    class=\"fa-angle-right fa\"></i>Rekrutacja 2018</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-studies-alumni\"><a
+    href=\"/studia/absolwenci\"><i class=\"fa-angle-right fa\"></i>Absolwenci</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-szkola-myslenia\"><a
+    href=\"/dla-studenta/szkola-myslenia\"><i class=\"fa-angle-right fa\"></i>Szkoła
+    myślenia</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-drzwi-otwarte\"><a href=\"/dla-studenta/drzwi-otwarte\"><i class=\"fa-angle-right
+    fa\"></i>Drzwi otwarte</a></li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-kadra\"><a href=\"/dla-studenta/kadra\"><i
+    class=\"fa-angle-right fa\"></i>Kadra</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-nasze-wyklady\"><a
+    href=\"/dla-studenta/nasze-wyklady\"><i class=\"fa-angle-right fa\"></i>Opisy
+    wybranych wykładów</a></li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-sztuczna-inteligencja\"><a href=\"/dla-studenta/sztuczna-inteligencja\"><i
+    class=\"fa-angle-right fa\"></i>Wykłady ze sztucznej inteligencji</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-\"><a
+    href=\"https://forum.iiuwr.me/c/rekrutacja\"><i class=\"fa-angle-right fa\"></i>Forum
+    rekrutacji (nieoficjalne)</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Dla
+    studentów</span>\n        \n            \n                <ul>\n\n<li id=\"section-tree-dla-nowych-studentow\"><a
+    href=\"/dla-studenta/dla-nowych-studentow\"><i class=\"fa-angle-right fa\"></i>Dla
+    nowych studentów</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-praktyczne-informacje\"><a href=\"/dla-studenta/praktyczne-informacje\"><i
+    class=\"fa-angle-right fa\"></i>Praktyczne informacje</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://ksi.ii.uni.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>Koło KSI</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://continuum.uni.wroc.pl/\"><i
+    class=\"fa-angle-right fa\"></i>Koło Continuum</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://www.samorzad.uni.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>Samorząd studencki</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-dni-adaptacyjne\"><a
+    href=\"/dla-studenta/dni-adaptacyjne\"><i class=\"fa-angle-right fa\"></i>Dni
+    adaptacyjne</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-stypendia\"><a href=\"/dla-studenta/stypendia\"><i class=\"fa-angle-right
+    fa\"></i>Stypendia</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Informacje
+    o studiach</span>\n        \n            \n                <ul>\n\n<li id=\"section-tree-I-stopnia\"><a
+    href=\"/dla-studenta/I-stopnia\"><i class=\"fa-angle-right fa\"></i>I stopnia</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-II-stopnia\"><a
+    href=\"/dla-studenta/II-stopnia\"><i class=\"fa-angle-right fa\"></i>II stopnia</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-isim\"><a
+    href=\"/dla-studenta/isim\"><i class=\"fa-angle-right fa\"></i>ISIM</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-studia-doktoranckie\"><a
+    href=\"/dla-studenta/studia-doktoranckie\"><i class=\"fa-angle-right fa\"></i>Studia
+    doktoranckie</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-prace-dyplomowe\"><a href=\"/dla-studenta/prace-dyplomowe\"><i
+    class=\"fa-angle-right fa\"></i>Prace dyplomowe</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-egzaminy\"><a
+    href=\"/dla-studenta/egzaminy\"><i class=\"fa-angle-right fa\"></i>Egzaminy dyplomowe</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n    <li class=\"with-submenu\">\n
+    \       <span><i class=\"fa-angle-down fa\"></i>Przepisy i formularze</span>\n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-podania\"><a
+    href=\"/dla-studenta/podania\"><i class=\"fa-angle-right fa\"></i>Podania i formularze</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-zaliczanie\"><a
+    href=\"/dla-studenta/zaliczanie\"><i class=\"fa-angle-right fa\"></i>Szczegółowe
+    zasady zaliczania i powtarzania semestru</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-reaktywacja\"><a href=\"/dla-studenta/reaktywacja\"><i
+    class=\"fa-angle-right fa\"></i>Zasady reaktywacji</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-rozporzadzenia\"><a
+    href=\"/dla-studenta/rozporzadzenia\"><i class=\"fa-angle-right fa\"></i>Dodatkowe
+    rozporządzenia Dziekana</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-studia_podyplomowe_IN\"><a
+    href=\"/dla-studenta/studia_podyplomowe_IN\"><i class=\"fa-angle-right fa\"></i>Studia
+    podyplomowe</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Serwisy</span>\n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://www.wmi.uni.wroc.pl/node/37\"><i
+    class=\"fa-angle-right fa\"></i>Biblioteka wydziałowa</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://informatyka.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>Portal</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://skos.ii.uni.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>System KOmunikacji ze Studentami</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-\"><a
+    href=\"http://zapisy.ii.uni.wroc.pl\"><i class=\"fa-angle-right fa\"></i>System
+    Zapisów</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-\"><a href=\"http://usosweb.uni.wroc.pl\"><i class=\"fa-angle-right
+    fa\"></i>USOSWeb</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-\"><a href=\"http://portal.uwr.edu.pl/\"><i class=\"fa-angle-right
+    fa\"></i>Poczta</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-\"><a href=\"https://apd.uni.wroc.pl/\"><i class=\"fa-angle-right
+    fa\"></i>Archiwum prac dyplomowych</a></li>\n\n</ul>\n\n            \n        \n
+    \   </li>\n\n</ul>\n\n                                    \n                                        <ul>\n\n<li
+    id=\"section-tree-prace-staze-praktyki\"><a href=\"/dla-studenta/prace-staze-praktyki\"><i
+    class=\"fa-angle-right fa\"></i>Prace i staże, praktyki</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Wymiany
+    studenckie</span>\n        \n            \n                <ul>\n\n<li id=\"section-tree-wymiany\"><a
+    href=\"/dla-studenta/wymiany\"><i class=\"fa-angle-right fa\"></i>Wymiany studenckie</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-pracownie\"><a
+    href=\"/dla-studenta/pracownie\"><i class=\"fa-angle-right fa\"></i>Pracownie
+    i sieć</a></li>\n\n</ul>\n\n                                    \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Konkursy</span>\n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://przesmycka.ii.uni.wroc.pl/\"><i
+    class=\"fa-angle-right fa\"></i>Wielka Przesmycka</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-olimpiada\"><a
+    href=\"/dla-studenta/olimpiada\"><i class=\"fa-angle-right fa\"></i>Olimpiada</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-amppz\"><a
+    href=\"/dla-studenta/amppz\"><i class=\"fa-angle-right fa\"></i>AMPPZ</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-pytania\"><a
+    href=\"/dla-studenta/pytania\"><i class=\"fa-angle-right fa\"></i>Pytania</a></li>\n\n</ul>\n\n
+    \                                   \n                                </div>\n
+    \                           </div>\n\n                        </li>\n                        <li
+    class=\"with-submenu\">\n                            <a href=\"/instytut\">Instytut</a>\n
+    \                           <div class=\"submenu\">\n                                <div
+    class=\"submenu-container link-menu\">\n                                    \n
+    \                                       <ul>\n\n    <li class=\"with-submenu\">\n
+    \       <span><i class=\"fa-angle-down fa\"></i>Serwisy</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-\"><a href=\"http://www.wmi.uni.wroc.pl/node/37\"><i
+    class=\"fa-angle-right fa\"></i>Biblioteka wydziałowa</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-online\"><a
+    href=\"/instytut/online\"><i class=\"fa-angle-right fa\"></i>Źródła on-line  </a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-\"><a
+    href=\"http://skos.ii.uni.wroc.pl\"><i class=\"fa-angle-right fa\"></i>System
+    KOmunikacji ze Studentami</a></li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-\"><a href=\"http://zapisy.ii.uni.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>System Zapisów</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"http://usosweb.uni.wroc.pl\"><i
+    class=\"fa-angle-right fa\"></i>USOSWeb</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-\"><a href=\"https://apd.uni.wroc.pl/\"><i
+    class=\"fa-angle-right fa\"></i>Archiwum prac dyplomowych</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-\"><a
+    href=\"http://www.bu.uni.wroc.pl/\"><i class=\"fa-angle-right fa\"></i>Biblioteka
+    Uniwersytecka</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-lokalizacja\"><a href=\"/instytut/lokalizacja\"><i class=\"fa-angle-right
+    fa\"></i>Lokalizacja i kontakt</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n    <li class=\"with-submenu\">\n
+    \       <span><i class=\"fa-angle-down fa\"></i>Struktura</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-dyrekcja\"><a href=\"/instytut/dyrekcja\"><i
+    class=\"fa-angle-right fa\"></i>Władze</a></li>\n\n</ul>\n\n            \n        \n
+    \           \n                <ul>\n\n<li id=\"section-tree-committees\"><a href=\"/instytut/rady-i-komisje\"><i
+    class=\"fa-angle-right fa\"></i>Rady i komisje</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n    <li class=\"with-submenu\">\n
+    \       <span><i class=\"fa-angle-down fa\"></i>Zakłady</span>\n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Pracownia Grafiki Komputerowej</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-PGK\"><a href=\"/badania/zaklad/PGK\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PGK\"><a
+    href=\"/badania/zaklad/PGK/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PGK\"><a
+    href=\"/badania/zaklad/PGK/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PGK\"><a
+    href=\"/badania/zaklad/PGK/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PGK\"><a
+    href=\"/badania/zaklad/PGK/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Inteligencji Obliczeniowej</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-PIO\"><a href=\"/badania/zaklad/PIO\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PIO\"><a
+    href=\"/badania/zaklad/PIO/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PIO\"><a
+    href=\"/badania/zaklad/PIO/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PIO\"><a
+    href=\"/badania/zaklad/PIO/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PIO\"><a
+    href=\"/badania/zaklad/PIO/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Pracownicy niezależni</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-PN\"><a href=\"/badania/zaklad/PN\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PN\"><a
+    href=\"/badania/zaklad/PN/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PN\"><a
+    href=\"/badania/zaklad/PN/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PN\"><a
+    href=\"/badania/zaklad/PN/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PN\"><a
+    href=\"/badania/zaklad/PN/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Inżynierii Oprogramowania</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZIO\"><a href=\"/badania/zaklad/ZIO\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Języków Programowania</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZJP\"><a href=\"/badania/zaklad/ZJP\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Metod Numerycznych</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZMN\"><a href=\"/badania/zaklad/ZMN\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Optymalizacji Kombinatorycznej</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZOK\"><a href=\"/badania/zaklad/ZOK\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Teorii Informatyki i Baz Danych</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD\"><i class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Złożoności Obliczeniowej i Algorytmów</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZZOA\"><a href=\"/badania/zaklad/ZZOA\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-jednostki-nadrzedne\"><a
+    href=\"/instytut/jednostki-nadrzedne\"><i class=\"fa-angle-right fa\"></i>Jednostki
+    nadrzędne</a></li>\n\n</ul>\n\n            \n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-terminy\"><a href=\"/instytut/terminy\"><i class=\"fa-angle-right
+    fa\"></i>Terminy posiedzeń</a></li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-employees\"><a href=\"/instytut/pracownicy\"><i class=\"fa-angle-right
+    fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-sekretariat\"><a
+    href=\"/instytut/sekretariat\"><i class=\"fa-angle-right fa\"></i>Sekretariat</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-\"><a href=\"http://www.wmi.uni.wroc.pl/node/63\"><i class=\"fa-angle-right
+    fa\"></i>Dziekanat</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-awards\"><a
+    href=\"/instytut/wyroznienia-i-akredytacje\"><i class=\"fa-angle-right fa\"></i>Akredytacje
+    i certyfikaty</a></li>\n\n</ul>\n\n                                    \n                                        <ul>\n\n<li
+    id=\"section-tree-historia\"><a href=\"/instytut/historia\"><i class=\"fa-angle-right
+    fa\"></i>Historia</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-projekty-unijne\"><a
+    href=\"/instytut/projekty-unijne\"><i class=\"fa-angle-right fa\"></i>Projekty
+    unijne</a></li>\n\n</ul>\n\n                                    \n                                </div>\n
+    \                           </div>\n                        </li>\n\n                        <li
+    class=\"with-submenu\">\n                            <a href=\"/badania\">Badania</a>\n
+    \                           <div class=\"submenu\">\n                                <div
+    class=\"submenu-container link-menu\">\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-opis-badan\"><a
+    href=\"/badania/opis-badan\"><i class=\"fa-angle-right fa\"></i>W skrócie</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n
+    \   <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down fa\"></i>Zakłady</span>\n
+    \       \n            \n                <ul>\n\n    <li class=\"with-submenu\">\n
+    \       <span><i class=\"fa-angle-down fa\"></i>Pracownia Grafiki Komputerowej</span>\n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-about-PGK\"><a
+    href=\"/badania/zaklad/PGK\"><i class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PGK\"><a
+    href=\"/badania/zaklad/PGK/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PGK\"><a
+    href=\"/badania/zaklad/PGK/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PGK\"><a
+    href=\"/badania/zaklad/PGK/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PGK\"><a
+    href=\"/badania/zaklad/PGK/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Inteligencji Obliczeniowej</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-PIO\"><a href=\"/badania/zaklad/PIO\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PIO\"><a
+    href=\"/badania/zaklad/PIO/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PIO\"><a
+    href=\"/badania/zaklad/PIO/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PIO\"><a
+    href=\"/badania/zaklad/PIO/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PIO\"><a
+    href=\"/badania/zaklad/PIO/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Pracownicy niezależni</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-PN\"><a href=\"/badania/zaklad/PN\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-PN\"><a
+    href=\"/badania/zaklad/PN/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-PN\"><a
+    href=\"/badania/zaklad/PN/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-PN\"><a
+    href=\"/badania/zaklad/PN/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-PN\"><a
+    href=\"/badania/zaklad/PN/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Inżynierii Oprogramowania</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZIO\"><a href=\"/badania/zaklad/ZIO\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZIO\"><a
+    href=\"/badania/zaklad/ZIO/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Języków Programowania</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZJP\"><a href=\"/badania/zaklad/ZJP\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZJP\"><a
+    href=\"/badania/zaklad/ZJP/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Metod Numerycznych</span>\n        \n            \n                <ul>\n\n<li
+    id=\"section-tree-research-works-about-ZMN\"><a href=\"/badania/zaklad/ZMN\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZMN\"><a
+    href=\"/badania/zaklad/ZMN/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Optymalizacji Kombinatorycznej</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZOK\"><a href=\"/badania/zaklad/ZOK\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZOK\"><a
+    href=\"/badania/zaklad/ZOK/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Teorii Informatyki i Baz Danych</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD\"><i class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZTIBD\"><a
+    href=\"/badania/zaklad/ZTIBD/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n            \n
+    \               <ul>\n\n    <li class=\"with-submenu\">\n        <span><i class=\"fa-angle-down
+    fa\"></i>Zakład Złożoności Obliczeniowej i Algorytmów</span>\n        \n            \n
+    \               <ul>\n\n<li id=\"section-tree-research-works-about-ZZOA\"><a href=\"/badania/zaklad/ZZOA\"><i
+    class=\"fa-angle-right fa\"></i>O zakładzie</a></li>\n\n</ul>\n\n            \n
+    \       \n            \n                <ul>\n\n<li id=\"section-tree-research-works-members-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/czlonkowie\"><i class=\"fa-angle-right fa\"></i>Pracownicy</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-grants-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-seminars-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/seminaria\"><i class=\"fa-angle-right fa\"></i>Seminaria</a></li>\n\n</ul>\n\n
+    \           \n        \n            \n                <ul>\n\n<li id=\"section-tree-research-works-papers-ZZOA\"><a
+    href=\"/badania/zaklad/ZZOA/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \           \n        \n    </li>\n\n</ul>\n\n            \n        \n    </li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-research-awards\"><a href=\"/badania/wyroznienia\"><i class=\"fa-angle-right
+    fa\"></i>Wyróżnienia</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-research-grants\"><a
+    href=\"/badania/granty\"><i class=\"fa-angle-right fa\"></i>Granty</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-research-seminars\"><a href=\"/badania/seminaria\"><i class=\"fa-angle-right
+    fa\"></i>Seminaria</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-research-papers\"><a
+    href=\"/badania/publikacje\"><i class=\"fa-angle-right fa\"></i>Publikacje</a></li>\n\n</ul>\n\n
+    \                                   \n                                        <ul>\n\n<li
+    id=\"section-tree-open-positions\"><a href=\"/badania/open-positions\"><i class=\"fa-angle-right
+    fa\"></i>Oferty pracy</a></li>\n\n</ul>\n\n                                    \n
+    \                                       <ul>\n\n<li id=\"section-tree-general\"><a
+    href=\"/badania/general\"><i class=\"fa-angle-right fa\"></i>Aktywność naukowa</a></li>\n\n</ul>\n\n
+    \                                   \n                                </div>\n
+    \                           </div>\n                        </li>\n                        <li
+    class=\"with-submenu\">\n                            <a href=\"/instytut/aktualnosci\">Aktualności</a>\n
+    \                       </li>\n                    </ul>\n                </nav>\n
+    \               <nav id=\"main-nav-mobile\">\n                    <a href=\"#\"
+    id=\"main-nav-mobile-btn\"><i class=\"fa-navicon fa\"></i></a>\n                    <ul
+    id=\"secondary-nav-mobile\">\n                        <form action=\"/i18n/setlang/\"
+    class=\"lang-form\" method=\"post\"><input type='hidden' name='csrfmiddlewaretoken'
+    value='jFGBIizRG7Ta1WXfm3qqIyAsIbbNy5lU' />\n                            <input
+    name=\"next\" type=\"hidden\" value=\"\" />\n                            \n                                \n
+    \                           \n                                \n                                    <input
+    type=\"hidden\" name=\"language\" value=\"en\"/>\n                                    <li><button
+    class=\"lang-btn\" type=\"submit\">English</button></li>\n                                \n
+    \                           \n                        </form>\n                    </ul>\n
+    \                   <ul id=\"primary-nav-mobile\">\n                        <li><a
+    href=\"/dla-studenta\">Studia</a></li>\n                        <li><a href=\"/instytut\">Instytut</a></li>\n
+    \                       <li><a href=\"/badania\">Badania</a></li>\n                        <li><a
+    href=\"/instytut/aktualnosci\">Aktualności</a></li>\n                        <li><a
+    href=\"/dla-studenta/kalendarz\">Terminarz</a></li>\n                    </ul>\n
+    \               </nav>\n            </div>\n            <a href=\"#\" id=\"search-btn\"
+    class=\"no-print-m\"><i class=\"fa-search fa\"></i></a>\n        </div>\n    </div>\n</div>\n\n\n\n
+    \           \n\n\n\n\n<div class=\"slider-container no-print-m\">\n\n    <div
+    class=\"container\">\n        <div id=\"slider\">\n    \n            <div id=\"slider-content\">\n
+    \               <div id=\"slider-wrapper\">\n                    \n                        \n
+    \                       \n                            <div class=\"slide-breaking-news
+    slide\">\n                                \n                                    <p><a
+    href=\"https://ii.uni.wroc.pl/instytut/aktualnosci/142\">Stypendium dla wybitnego
+    młodego naukowca</a></p>\n                                \n                            </div>\n
+    \                           \n                    \n                </div>\n            </div>
+    \                   \n        </div>                    \n    </div>\n</div>\n\n\n\t\t</header>\n\n\n
+    \       \n\n<div id=\"homepage\">\n\t<div id=\"tiles-container\">\n\t    <div
+    class=\"container\">\n\t        <div class=\"pure-g\">\n\n\t            <div class=\"pure-u-1
+    pure-u-lg-1-2\">\n\t                <div class=\"tile-wrapper right\">\n\t                    <div
+    id=\"tile-1\" class=\"tile cf\">\n                            <a class=\"tile-link\"
+    href=\"http://continuum.uni.wroc.pl/\"></a>\n\t                        <div class=\"news-box\">\n\t
+    \                           <a class=\"tile-link\" href=\"http://continuum.uni.wroc.pl/\"></a>\n\t
+    \                           <ul>\n                                    \n\t                                <li><a
+    href=\"http://continuum.uni.wroc.pl/\" class=\"title\">Poznaj koło Continuum</a>\n\t
+    \                           </ul>\n\t                        </div>\n\t                        <a
+    href=\"http://continuum.uni.wroc.pl/\" class=\"arrow arrow-lg\"><i class=\"fa
+    fa-angle-right\"></i></a>\n\t                    </div>\n\t                </div>\n\t
+    \           </div>\n\n\t            <div class=\"pure-u-1 pure-u-lg-1-2\">\n\n\t
+    \               <div class=\"tile-wrapper left\">\n\t                    <div
+    id=\"tile-3\" class=\"tile cf\">\n                            <a class=\"tile-link\"
+    href=\"https://ii.uni.wroc.pl/szkolamyslenia\"></a>\n                            \n\t
+    \                       <div class=\"news-box\">\n\t                            <a
+    class=\"tile-link\" href=\"https://ii.uni.wroc.pl/szkolamyslenia\"></a>\n\t                            <ul>\n
+    \                                   \n\t                                <li><a
+    href=\"https://ii.uni.wroc.pl/szkolamyslenia\" class=\"title\">Ostatnia edycja
+    szkoły myślenia - zapisy</a>\n                                    </ul>\n\t                        </div>\n
+    \                           \n\t                        <a href=\"https://ii.uni.wroc.pl/szkolamyslenia\"
+    class=\"arrow arrow-lg\"><i class=\"fa fa-angle-right\"></i></a> \n\n\t                    </div>\n\t
+    \               </div>\n\n\n\n\t                <div class=\"tile-wrapper left\">\n\t
+    \                   <div id=\"tile-2\" class=\"tile cf\">\n                            <a
+    class=\"tile-link\" href=\"https://ii.uni.wroc.pl/instytut/aktualnosci/121\"></a>\n
+    \                           \n\t                        <div class=\"news-box\">\n\t
+    \                           <a class=\"tile-link\" href=\"https://ii.uni.wroc.pl/instytut/aktualnosci/121\"></a>\n\t
+    \                           <ul>\n                                    \n\t                                <li><a
+    href=\"https://ii.uni.wroc.pl/instytut/aktualnosci/121\" class=\"title\">Zwycięstwo
+    naszego chatbota</a>\n\t                            </ul>\n\t                        </div>\n
+    \                           \n\t                        <a href=\"https://ii.uni.wroc.pl/instytut/aktualnosci/121\"
+    class=\"arrow arrow-lg\"><i class=\"fa fa-angle-right\"></i></a>\n\n\t                    </div>\n\t
+    \               </div>\n\n\t            </div>\n\t        </div>\n\t    </div>\n\t</div>\n</div>\n\n\n\t\t<footer>\n\t\t
+    \   \n<div class=\"container\">\n    <div class=\"pure-g\">\n        <div class=\"pure-u-1
+    pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6 no-print-m\">\n            <div class=\"elem-wrapper\">\n
+    \               <ul class=\"footer-nav main\">\n                    <li><a href=\"/\"><i
+    class=\"fa fa-angle-right\"></i>Start\n                    </a></li>\n                    <li><a
+    href=\"/dla-studenta\"><i class=\"fa fa-angle-right\"></i>Studia</a></li>\n                    <li><a
+    href=\"/dla-pracownika\"><i class=\"fa fa-angle-right\"></i>Dla pracownika</a></li>\n<!--
+    \                   <li><a href=\"/instytut/terminarz\">Terminarz</a></li>-->\n
+    \               </ul>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1
+    pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6 no-print-m\">\n            <div class=\"elem-wrapper\">\n
+    \               <ul class=\"footer-nav main\">\n<!--                    <li><a
+    href=\"/studia\"><i class=\"fa fa-angle-right\"></i>Studia</a></li>-->\n                    <li><a
+    href=\"/badania\"><i class=\"fa fa-angle-right\"></i>Badania</a></li>\n<!--                    <li><a
+    href=\"/biznes\"><i class=\"fa fa-angle-right\"></i>Biznes</a></li>-->\n                    <li><a
+    href=\"/instytut\"><i class=\"fa fa-angle-right\"></i>Instytut</a></li>\n                    <li><a
+    href=\"/instytut/projekty-unijne\"><i class=\"fa fa-angle-right\"></i>Projekty
+    unijne</a></li>\n                </ul>\n            </div>\n        </div>\n\n
+    \       <div class=\"pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6\">\n            <div
+    class=\"elem-wrapper\">\n                <h6>Adres:</h6>\n                <p><a
+    href=\"instytut/lokalizacja\"> \n\t\t   Instytut Informatyki<br />\n                   Uniwersytetu
+    Wrocławskiego<br />\n                   ul. Joliot-Curie 15<br />\n                   50-383
+    Wrocław</a></p>\n\t\t <ul class=\"footer-nav main\">\n                    <li
+    style=\"display: none\">\n\t\t   <a href=\"instytut/lokalizacja\"> Dojazd</a>\n\t\t
+    \   </li>\n\t\t </ul>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1
+    pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6\">\n            <div class=\"elem-wrapper\">\n
+    \               <h6>Sekretariat:</h6>\n                <ul>\n                    <li>tel.:
+    71 375 7800</li>\n                    <li>tel.: 71 325 1271</li>\n                    <li>fax:
+    71 375 7801</li>\n                    <li><a class=\"basic-link\" href=\"mailto:sekretariat@ii.uni.wroc.pl\">sekretariat@ii.uni.wroc.pl</a></li>\n
+    \               </ul>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1
+    pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6\">\n            <div class=\"elem-wrapper\">\n
+    \               <h6>Dziekanat:</h6>\n                <ul>\n                    <li>tel.:
+    71 375 7892</li>\n                    <li><a class=\"basic-link\" href=\"mailto:dziekanat.wmi@uwr.edu.pl\">dziekanat.wmi@uwr.edu.pl</a></li>\n
+    \               </ul>\n            </div>\n        </div>\n\n        <div class=\"pure-u-1
+    pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-6 no-print-m\">\n            <div class=\"elem-wrapper\">\n
+    \               <h6>Portiernia:</h6>\n                <ul>\n                    <li>tel.:
+    71 375 7958</li>\n                </ul>\n            </div>\n        </div>\n\n
+    \   </div>\n</div>\n\n<!--\n<div id=\"bottom-bar\">\n    <div class=\"container\">\n
+    \       <div class=\"pure-g\">\n            <div class=\"pure-u-1 pure-u-sm-1-2\">\n
+    \               <div class=\"logo\"></div>\n            </div>\n            <div
+    class=\"pure-u-1 pure-u-sm-1-2\">\n                <ul id=\"social-footer\">\n
+    \                   \n                    <li><a href=\"https://facebook.com/IIUWr/?fref=ts\"><i
+    class=\"fa fa-facebook\"></i></a></li>\n                </ul>\n            </div>\n
+    \       </div>\n    </div>\n</div>\n\n-->\n\t\n\t\t</footer>\n\n\n\t\t<!-- jquery
+    -->\n\t\t<script type=\"text/javascript\" src=\"https://code.jquery.com/jquery-1.11.1.min.js\"></script>\n
+    \       <script type=\"text/javascript\" src=\"/static/js/cookiesEU-latest.min.js\"></script>\n
+    \       <script type=\"text/javascript\" src=\"/static/js/header.js\"></script>\n
+    \       <script type=\"text/javascript\" src=\"/static/js/link_menu.js\"></script>\n\n
+    \       \n\n\t</body>\n</html>\n\n"
+  - 834e6ecc4f25358b7d43c748b248df58
+  https://www.google.pl:
+  - |-
+    <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="pl"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="QXNuqI+pTb3PUxm4x7clPA==">(function(){window.google={kEI:'y4cKXOusOcicsAHdj5vAAQ',kEXPI:'0,1353747,57,1958,1016,1406,697,528,731,325,293,1180,30,524,22,6,143,311,221,249,432,214,68,204,2335894,233,32,68,329226,1294,12383,4855,32692,15247,864,12166,5281,9048,2192,363,1218,2102,4133,1372,1112,129,1201,260,5107,575,835,284,2,204,374,728,2431,1362,283,1429,2158,453,3398,1569,292,482,1506,609,137,4742,525,22,604,2,1965,528,3,2064,182,283,3805,940,110,334,130,1190,154,386,8,735,268,81,7,28,463,620,29,1017,836,3204,644,3301,989,313,794,82,412,2,554,52,27,1480,1075,273,108,1234,12,89,941,178,38,363,557,573,109,36,155,497,1,719,1327,37,441,43,47,552,4,19,1,504,901,383,4,416,666,359,7,48,11,28,715,9,2,246,262,1,236,889,307,59,248,2,366,265,217,2045,218,82,2,146,530,44,18,31,428,564,738,661,96,249,97,150,1116,57,353,717,8,22,479,758,848,632,368,4,115,64,18,100,36,452,301,343,123,22,905,161,5973542,1874,680,95,117,5997389,90,2800095,4,1572,549,332,445,1,2,80,1,900,583,9,304,1,8,1,2,2132,1,1,1,1,1,414,1,748,141,400,4,8,1,57,325,239,84,14,29,1,19,3,1,1,9,4,2300146',authuser:0,kscs:'c9c918f0_y4cKXOusOcicsAHdj5vAAQ',kGL:'PL'};google.kHL='pl';})();google.time=function(){return(new Date).getTime()};(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.log=function(a,b,e,c,g){if(a=google.logUrl(a,b,e,c,g)){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};google.vel&&google.vel.lu&&google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,e,c,g){var d="",f=google.ls||"";e||-1!=b.search("&ei=")||(d="&ei="+google.getEI(c),-1==b.search("&lei=")&&(c=google.getLEI(c))&&(d+="&lei="+c));c="";!e&&google.cshid&&-1==b.search("&cshid=")&&"slh"!=a&&(c="&cshid="+google.cshid);a=e||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time()+c;/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};</script><script nonce="QXNuqI+pTb3PUxm4x7clPA==">var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+    </style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff !important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}.tiah{width:458px}</style><script nonce="QXNuqI+pTb3PUxm4x7clPA=="></script></head><body bgcolor="#fff"><script nonce="QXNuqI+pTb3PUxm4x7clPA==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+    if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+    }
+    })();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Wyszukiwarka</b> <a class=gb1 href="https://www.google.pl/imghp?hl=pl&tab=wi">Grafika</a> <a class=gb1 href="https://maps.google.pl/maps?hl=pl&tab=wl">Mapy</a> <a class=gb1 href="https://play.google.com/?hl=pl&tab=w8">Play</a> <a class=gb1 href="https://www.youtube.com/?gl=PL&tab=w1">YouTube</a> <a class=gb1 href="https://news.google.pl/nwshp?hl=pl&tab=wn">Wiadomości</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Dysk</a> <a class=gb1 style="text-decoration:none" href="https://www.google.pl/intl/pl/about/products?tab=wh"><u>Więcej</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.pl/history/optout?hl=pl" class=gb4>Historia online</a> | <a  href="/preferences?hl=pl" class=gb4>Ustawienia</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=pl&passive=true&continue=https://www.google.pl/" class=gb4>Zaloguj się</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div> </div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo" onload="window.lol&&lol()"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-2" type="hidden"><input value="pl" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><div style="position:relative;zoom:1"><input style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top;padding-right:38px" autocomplete="off" class="lst tiah" value="" title="Szukaj w Google" maxlength="2048" name="q" size="57"><img src="/textinputassistant/tia.png" style="position:absolute;cursor:pointer;right:5px;top:4px;z-index:300" onclick="(function(){var src='/textinputassistant/11/pl_tia.js';var s=document.createElement('script');s.src=src;(document.getElementById('xjsc')||document.body).appendChild(s);})();" alt="" height="23" width="27"></div></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Szukaj w Google" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" value="Szczęśliwy traf" name="btnI" onclick="if(this.form.q.value)this.checked=1; else top.location='/doodles/'" type="submit"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=pl&amp;authuser=0">Szukanie zaawansowane</a><a href="/language_tools?hl=pl&amp;authuser=0">Narzędzia językowe</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="QXNuqI+pTb3PUxm4x7clPA==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/pl/ads/">Reklamuj się w Google</a><a href="http://www.google.pl/intl/pl/services/">Rozwiązania dla firm</a><a href="https://plus.google.com/102407376649446415369" rel="publisher">+Google</a><a href="/intl/pl/about.html">Wszystko o Google</a><a href="https://www.google.pl/setprefdomain?prefdom=US&amp;sig=K_zGSd_ud4sW-Il3ArIxujGnctTTE%3D" id="fehl">Google.com</a></div></div><p style="color:#767676;font-size:8pt">&copy; 2018 - <a href="/intl/pl/policies/privacy/">Prywatność</a> - <a href="/intl/pl/policies/terms/">Warunki</a></p></span></center><script nonce="QXNuqI+pTb3PUxm4x7clPA==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){google.ldi={};google.pim={};})();(function(){function c(b){window.setTimeout(function(){var a=document.createElement("script");a.src=b;google.timers&&google.timers.load.t&&google.tick&&google.tick("load",{gen204:"xjsls",clearcut:31});document.body.appendChild(a)},0)}google.dljp=function(b,a){google.xjsu=b;c(a)};}).call(this);if(!google.xjs){window._=window._||{};window._DumpException=window._._DumpException=function(e){throw e};window._F_installCss=window._._F_installCss=function(c){};google.dljp('/xjs/_/js/k\x3dxjs.hp.en.U0ebKpdZHYI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH689M1O81iXI-kYdbUCUWTnOVDiw','/xjs/_/js/k\x3dxjs.hp.en.U0ebKpdZHYI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH689M1O81iXI-kYdbUCUWTnOVDiw');google.xjs=1;}google.pmc={"sb_he":{"agen":true,"cgen":true,"client":"heirloom-hp","dh":true,"dhqt":true,"ds":"","ffql":"en","fl":true,"host":"google.pl","isbh":28,"jsonp":true,"msgs":{"cibl":"Wyczyść wyszukiwanie","dym":"Czy chodziło Ci o:","lcky":"Szczęśliwy traf","lml":"Więcej informacji","oskt":"Narzędzia do wprowadzania tekstu","psrc":"To wyszukiwanie zostało usunięte z Twojej \u003Ca href=\"/history\"\u003EHistorii online\u003C/a\u003E","psrl":"Usuń","sbit":"Wyszukiwanie obrazem","srch":"Szukaj w Google"},"ovr":{},"pq":"","refpd":true,"rfs":[],"sbpl":24,"sbpr":24,"scd":10,"sce":5,"stok":"LhWsnEcu5MXAjRpKBaPSv2F16sc","uhde":false},"d":{},"ZI/YVQ":{},"Qnk92g":{},"U5B21g":{},"YFCs/g":{}};(function(){var r=[];google.plm(r);})();(function(){var m=[]
+    ;m.length && google.jsc && google.jsc.m(m);})();</script></body></html>
+  - 15f1ec47f7c0fa008cf1a2c00a79dc4e
+session1:
+  http://www.ii.uni.wroc.pl/~gst/MD/:
+  - "<meta charset=\"utf-8\">\n<HEADER><TITLE>Matematyka Dyskretna</TITLE></HEADER>\n<H2>\nMatematyka
+    Dyskretna</H2>\n<UL>\n<LI><A HREF=\"mdysRG.pdf\">Zasady zaliczania</A> \n<LI><A
+    HREF=\"mdys01.pdf\">Lista 1</A> \n<LI><A HREF=\"mdys02.pdf\">Lista 2</A>\n<LI><A
+    HREF=\"mdys03.pdf\">Lista 3</A>\n<LI><A HREF=\"mdys04.pdf\">Lista 4</A>\n<LI><A
+    HREF=\"mdys05.pdf\">Lista 5</A>\n<LI><A HREF=\"mdys06.pdf\">Lista 6</A>\n<LI><A
+    HREF=\"mdys07.pdf\">Lista 7</A>\n<LI><A HREF=\"mdys08.pdf\">Lista 8</A>\n<LI><A
+    HREF=\"mdys09.pdf\">Lista 9</A>\n<LI><A HREF=\"mdys10.pdf\">Lista 10</A>\n</UL>\n<DD><UL>\n\n\n\n\n\n\n"
+  - 28d50072ea30ef7f92e378a9229c555b
+  https://www.google.pl:
+  - |-
+    <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="pl"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="c7JMX7h6WQfD3KaiaXUyNg==">(function(){window.google={kEI:'zIcKXNmME6WRmgWn9r-AAQ',kEXPI:'0,1353747,57,1957,1017,1406,698,527,591,139,326,293,569,611,30,524,27,676,681,214,254,18,217,2335706,204,32,68,329226,1294,12383,4855,32691,15248,867,12163,11569,4952,364,1217,3365,2870,1372,1112,1330,260,5107,575,835,284,2,579,727,2432,1361,1712,2158,453,3390,8,1569,774,1506,609,135,2820,2449,626,2,1961,532,3,2064,182,283,556,2282,967,942,108,334,130,1344,386,8,584,151,268,81,7,28,463,620,29,1017,836,3204,644,4289,9,305,317,561,410,2,557,76,2180,376,272,108,1234,1221,37,363,557,477,51,45,145,155,497,1,719,1327,37,484,47,1080,543,358,387,416,6,660,322,37,7,87,703,9,2,258,262,1,236,418,778,58,175,74,2,366,265,217,660,1385,263,37,2,676,45,17,31,1197,514,19,597,64,96,249,247,102,1425,716,8,24,2083,632,369,182,18,235,353,256,45,292,39,135,20,487,581,29,5973513,2554,211,41,5997242,107,90,2800095,4,1572,549,332,445,1,2,80,1,900,579,13,304,1,8,1,2,2132,1,1,1,1,1,414,1,748,141,401,4,5,385,239,84,14,29,1,19,3,1,1,9,4,2300149',authuser:0,kscs:'c9c918f0_zIcKXNmME6WRmgWn9r-AAQ',kGL:'PL'};google.kHL='pl';})();google.time=function(){return(new Date).getTime()};(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.log=function(a,b,e,c,g){if(a=google.logUrl(a,b,e,c,g)){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};google.vel&&google.vel.lu&&google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,e,c,g){var d="",f=google.ls||"";e||-1!=b.search("&ei=")||(d="&ei="+google.getEI(c),-1==b.search("&lei=")&&(c=google.getLEI(c))&&(d+="&lei="+c));c="";!e&&google.cshid&&-1==b.search("&cshid=")&&"slh"!=a&&(c="&cshid="+google.cshid);a=e||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time()+c;/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};</script><script nonce="c7JMX7h6WQfD3KaiaXUyNg==">var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+    </style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff !important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}.tiah{width:458px}</style><script nonce="c7JMX7h6WQfD3KaiaXUyNg=="></script></head><body bgcolor="#fff"><script nonce="c7JMX7h6WQfD3KaiaXUyNg==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+    if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+    }
+    })();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Wyszukiwarka</b> <a class=gb1 href="https://www.google.pl/imghp?hl=pl&tab=wi">Grafika</a> <a class=gb1 href="https://maps.google.pl/maps?hl=pl&tab=wl">Mapy</a> <a class=gb1 href="https://play.google.com/?hl=pl&tab=w8">Play</a> <a class=gb1 href="https://www.youtube.com/?gl=PL&tab=w1">YouTube</a> <a class=gb1 href="https://news.google.pl/nwshp?hl=pl&tab=wn">Wiadomości</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Dysk</a> <a class=gb1 style="text-decoration:none" href="https://www.google.pl/intl/pl/about/products?tab=wh"><u>Więcej</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.pl/history/optout?hl=pl" class=gb4>Historia online</a> | <a  href="/preferences?hl=pl" class=gb4>Ustawienia</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=pl&passive=true&continue=https://www.google.pl/" class=gb4>Zaloguj się</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div> </div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo" onload="window.lol&&lol()"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-2" type="hidden"><input value="pl" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><div style="position:relative;zoom:1"><input style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top;padding-right:38px" autocomplete="off" class="lst tiah" value="" title="Szukaj w Google" maxlength="2048" name="q" size="57"><img src="/textinputassistant/tia.png" style="position:absolute;cursor:pointer;right:5px;top:4px;z-index:300" onclick="(function(){var src='/textinputassistant/11/pl_tia.js';var s=document.createElement('script');s.src=src;(document.getElementById('xjsc')||document.body).appendChild(s);})();" alt="" height="23" width="27"></div></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Szukaj w Google" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" value="Szczęśliwy traf" name="btnI" onclick="if(this.form.q.value)this.checked=1; else top.location='/doodles/'" type="submit"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=pl&amp;authuser=0">Szukanie zaawansowane</a><a href="/language_tools?hl=pl&amp;authuser=0">Narzędzia językowe</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="c7JMX7h6WQfD3KaiaXUyNg==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/pl/ads/">Reklamuj się w Google</a><a href="http://www.google.pl/intl/pl/services/">Rozwiązania dla firm</a><a href="https://plus.google.com/102407376649446415369" rel="publisher">+Google</a><a href="/intl/pl/about.html">Wszystko o Google</a><a href="https://www.google.pl/setprefdomain?prefdom=US&amp;sig=K_KZ4DkXcTNpRcaeadSEfWMVhs9R0%3D" id="fehl">Google.com</a></div></div><p style="color:#767676;font-size:8pt">&copy; 2018 - <a href="/intl/pl/policies/privacy/">Prywatność</a> - <a href="/intl/pl/policies/terms/">Warunki</a></p></span></center><script nonce="c7JMX7h6WQfD3KaiaXUyNg==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){google.ldi={};google.pim={};})();(function(){function c(b){window.setTimeout(function(){var a=document.createElement("script");a.src=b;google.timers&&google.timers.load.t&&google.tick&&google.tick("load",{gen204:"xjsls",clearcut:31});document.body.appendChild(a)},0)}google.dljp=function(b,a){google.xjsu=b;c(a)};}).call(this);if(!google.xjs){window._=window._||{};window._DumpException=window._._DumpException=function(e){throw e};window._F_installCss=window._._F_installCss=function(c){};google.dljp('/xjs/_/js/k\x3dxjs.hp.en.U0ebKpdZHYI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH689M1O81iXI-kYdbUCUWTnOVDiw','/xjs/_/js/k\x3dxjs.hp.en.U0ebKpdZHYI.O/m\x3dsb_he,d/am\x3dYsAs/rt\x3dj/d\x3d1/rs\x3dACT90oH689M1O81iXI-kYdbUCUWTnOVDiw');google.xjs=1;}google.pmc={"sb_he":{"agen":true,"cgen":true,"client":"heirloom-hp","dh":true,"dhqt":true,"ds":"","ffql":"en","fl":true,"host":"google.pl","isbh":28,"jsonp":true,"msgs":{"cibl":"Wyczyść wyszukiwanie","dym":"Czy chodziło Ci o:","lcky":"Szczęśliwy traf","lml":"Więcej informacji","oskt":"Narzędzia do wprowadzania tekstu","psrc":"To wyszukiwanie zostało usunięte z Twojej \u003Ca href=\"/history\"\u003EHistorii online\u003C/a\u003E","psrl":"Usuń","sbit":"Wyszukiwanie obrazem","srch":"Szukaj w Google"},"ovr":{},"pq":"","refpd":true,"rfs":[],"sbpl":24,"sbpr":24,"scd":10,"sce":5,"stok":"H97wF0cKhutkygdBGijHXGYm-Es","uhde":false},"d":{},"ZI/YVQ":{},"Qnk92g":{},"U5B21g":{},"YFCs/g":{}};(function(){var r=[];google.plm(r);})();(function(){var m=[]
+    ;m.length && google.jsc && google.jsc.m(m);})();</script></body></html>
+  - 7aa44a23d85bbd7f8348e778f5709e3c
